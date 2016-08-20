@@ -1,0 +1,31 @@
+2016-03-09 7:57:02 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 7:57:25 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 8:26:44 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 10:42:03 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 10:43:00 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 10:44:26 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-03-09 10:49:03 - PHP Notice:  Undefined variable: entry_export in C:\wamp\www\ecommerce\upload\admin\view\template\tool\backup.tpl on line 43
+2016-04-01 21:01:27 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\ecommerce\upload\admin\model\design\banner.php on line 12
+2016-04-01 21:11:06 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\ecommerce\upload\admin\model\design\banner.php on line 37
+2016-04-01 21:17:58 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\ecommerce\upload\admin\model\design\banner.php on line 37
+2016-04-01 21:17:58 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\ecommerce\upload\admin\model\design\banner.php on line 37
+2016-04-01 21:17:58 - PHP Notice:  Undefined index: sort_order in C:\wamp\www\ecommerce\upload\admin\model\design\banner.php on line 37
+2016-04-02 7:16:17 - PHP Notice:  Undefined index: name in C:\wamp\www\ecommerce\upload\catalog\view\theme\default\template\information\contact.tpl on line 155
+2016-04-02 7:16:17 - PHP Notice:  Undefined index: email in C:\wamp\www\ecommerce\upload\catalog\view\theme\default\template\information\contact.tpl on line 158
+2016-04-02 7:16:17 - PHP Notice:  Undefined index: message in C:\wamp\www\ecommerce\upload\catalog\view\theme\default\template\information\contact.tpl on line 161
+2016-04-02 7:34:17 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 7:34:38 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 7:34:51 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 7:34:55 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 7:34:56 - PHP Warning:  mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in C:\wamp\www\ecommerce\upload\catalog\view\theme\default\template\information\contact.tpl on line 22
+2016-04-02 7:36:33 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 10:23:11 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 10:25:19 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 10:32:12 - PHP Notice:  Undefined index: enquiry in C:\wamp\www\ecommerce\upload\catalog\controller\information\contact.php on line 174
+2016-04-02 10:32:12 - PHP Warning:  mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in C:\wamp\www\ecommerce\upload\catalog\view\theme\default\template\information\contact.tpl on line 22
+2016-04-03 9:17:41 - PHP Warning:  unlink(C:/wamp/www/ecommerce/upload/system/storage/cache/cache.language.1459603494): No such file or directory in C:\wamp\www\ecommerce\upload\system\library\cache\file.php on line 17
+2016-04-13 5:07:47 - PHP Warning:  mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. v74sm46778832pfa.7 - gsmtp in C:\wamp\www\ecommerce\upload\system\library\mail.php on line 164
+2016-04-13 5:43:37 - PHP Warning:  mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. a86sm6246439pfc.42 - gsmtp in C:\wamp\www\ecommerce\upload\system\library\mail.php on line 164
+2016-04-23 4:40:59 - PHP Warning:  mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. g70sm11265436pfb.7 - gsmtp in C:\wamp\www\ecommerce\upload\system\library\mail.php on line 164
+2016-04-23 4:47:51 - PHP Warning:  mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. gp9sm12469034pac.8 - gsmtp in C:\wamp\www\ecommerce\upload\system\library\mail.php on line 164
+2016-04-23 11:11:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;smtp.gmail.com&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\ecommerce\upload\system\library\mail.php on line 164
